@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIW6r3C+DAieAkZtMeB8vOY9VEEjaiAWsWrzGidbm55GZX0uoMrjWlqKgFHDGAH6rSY/i6Jnm+qcgkkVQQKZBg==",
+  "success": true,
+  "projectFilePath": "C:\\Dot Net Training\\Project\\LMS_Azure_Web_Api\\LMS_Author_Api\\LMS_Author_Api\\LMS_Author_Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2065812\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\2065812\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\2065812\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\2065812\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\2065812\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\2065812\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\2065812\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

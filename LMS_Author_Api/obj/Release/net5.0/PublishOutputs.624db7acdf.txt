@@ -1,0 +1,11 @@
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\LMS_Author_Api.exe
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\LMS_Author_Api.dll
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\LMS_Author_Api.deps.json
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\LMS_Author_Api.runtimeconfig.json
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\LMS_Author_Api.pdb
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\LMS_Azure_Web_Api\LMS_Author_Api\LMS_Author_Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: LMS_Author_Api-deployment
+  labels:
+    app: LMS_Author_Api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: LMS_Author_Api  
+  template:
+    metadata:
+      labels:
+        app: LMS_Author_Api
+    spec:
+      containers:
+      - name: LMS_Author_Api008cr
+        image: LMS_Author_Api008cr.azurecr.io/LMS_Author_Apirepository:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: webapisvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: LMS_Author_Apisvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: LMS_Author_Api
